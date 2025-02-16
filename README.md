@@ -85,6 +85,5 @@ The AI-powered dating search application is designed to find profiles on **Hinge
 - **Cloud Deployment:** Deploy on AWS/GCP for scalability.
 
 ## Conclusion
-While API restrictions posed challenges, this project successfully demonstrates AI-powered search capabilities using **facial recognition, name-matching, and web scraping techniques**. It provided valuable experience in **authentication handling, data automation, and AI-based matching**. Future improvements will focus on overcoming scraping limitations and enhancing usability.
-
+While I was unable to complete the full project due to API restrictions and authentication challenges, I successfully built a working prototype that utilizes Flask for backend processing, React.js for frontend interaction, AI-based search techniques, and automated web scraping. This project has given me invaluable experience in real-world challenges, including data scraping, authentication handling, AI-powered matching, and ethical considerations in web automation. I am eager to explore further improvements and innovative solutions to enhance the application's functionality.
 ## Thank You!
